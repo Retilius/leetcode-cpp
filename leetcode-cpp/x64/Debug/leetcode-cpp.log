@@ -1,0 +1,25 @@
+﻿  36.cpp
+C:\Users\augus\source\repos\leetcode-cpp\leetcode-cpp\36.cpp(67,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/36.cpp')
+  
+  36_test.cpp
+C:\Users\augus\source\repos\leetcode-cpp\leetcode-cpp\36.cpp(67,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/36_test.cpp')
+  
+  37.cpp
+  498-test.cpp
+C:\Users\augus\source\repos\leetcode-cpp\leetcode-cpp\498.cpp(28,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/498-test.cpp')
+  
+C:\Users\augus\source\repos\leetcode-cpp\leetcode-cpp\498.cpp(29,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/498-test.cpp')
+  
+  498.cpp
+C:\Users\augus\source\repos\leetcode-cpp\leetcode-cpp\498.cpp(28,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/498.cpp')
+  
+C:\Users\augus\source\repos\leetcode-cpp\leetcode-cpp\498.cpp(29,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/498.cpp')
+  
+  Generating Code...
+  leetcode-cpp.vcxproj -> C:\Users\augus\source\repos\leetcode-cpp\x64\Debug\leetcode-cpp.exe
